@@ -1,0 +1,16 @@
+---
+#list 
+fruits:
+ -apple:
+   -red :
+   -healthy
+   -sweet
+-mango 
+original
+pieneapple
+
+#dictionary
+Martin:
+ name: Martin developer
+ job : developer 
+ skill: ellite
