@@ -1,7 +1,7 @@
-name: variable playbook
-hosts: all 
-vars: 
-  url:www.google.com
+- name: variable playbook
+  hosts: all 
+  vars: 
+  url: www.google.com
   tasks:
    - name: variable print
     debug: all
