@@ -3,6 +3,6 @@ hosts: all
 vars: 
   url:www.google.com
   tasks:
-  -name: variable print
+   - name: variable print
     debug: all
     msg:"{{url}}"
