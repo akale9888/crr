@@ -6,11 +6,11 @@ fruits:
    -healthy
    -sweet
    -mango 
+...
 
-
-#dictionary
-Martin:
- name: Martin developer
- job : developer 
- skill: ellite
+# #dictionary
+# Martin:
+#  name: Martin developer
+#  job : developer 
+#  skill: ellite
 
