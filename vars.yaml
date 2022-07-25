@@ -6,3 +6,5 @@
    - name: variable print
     debug: 
     msg: "{{url}}"
+    vars:
+    url: www.local.google.com
