@@ -1,13 +1,12 @@
 ---
 #list 
 fruits:
- -apple:
-   -red :
+   -apple
+   -red 
    -healthy
    -sweet
--mango 
-original
-pieneapple
+   -mango 
+
 
 #dictionary
 Martin:
@@ -15,7 +14,3 @@ Martin:
  job : developer 
  skill: ellite
 
-akash:
- name: akash k
- job : developadminer 
- skill: ellitesecops
